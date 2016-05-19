@@ -481,3 +481,5 @@
 		};
 	};
 };
+#include "cyanogenmod-zte-common.dtsi"
+
